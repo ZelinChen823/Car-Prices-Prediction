@@ -1,0 +1,7 @@
+Models,Root Mean Squared Error,Mean Absolute Error,R^2 Score
+Linear Regression,42828,13113,0.5076604340827127
+Support Vector Regressor,61711,22398,-0.022200698307146105
+K Nearest Regressor,31563,5461,0.7325956592075034
+PLS Regression,42825,13112,0.5077355424369614
+Decision Tree Regressor,36929,4391,0.6339484246913079
+Gradient Boosting Regressor,32425,5039,0.7177966324124625
