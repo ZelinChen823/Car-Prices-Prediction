@@ -16,7 +16,7 @@ from sklearn.linear_model import LinearRegression
 import joblib
 
 
-df = pd.read_csv('Data/data2.csv', encoding='ISO-8859-1')
+df = pd.read_csv('../Data/data2.csv', encoding='ISO-8859-1')
 target = 'MSRP'
 df['log_MSRP'] = np.log(df[target])
 
