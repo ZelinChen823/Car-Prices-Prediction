@@ -14,7 +14,7 @@ Serialization: Saves preprocessing pipeline and models with joblib for reproduci
 # Structure
 
 ```
-Car-Prices-Prediction/\
+Car-Prices-Prediction/
 ├── Data/                   # CSV datasets
 ├── Jupyter Notebook        # Jupyter notebooks from Parent Paper
 ├── src/                    # Source code modules
